@@ -1,5 +1,6 @@
 # PNG24在ie6下的完美解决方法:DD_belatedPNG
 
+[![DD_belatedPNG-ie6](https://raw.githubusercontent.com/webfd/ie-x.js/master/mdimg/DD_belatedPNG-ie6.png)]
 DD_belatedPNG这款插件就是我推荐的： 它支持 `backgrond-position` 与 `background-repeat`，这是其他 js 插件不具备的.同时 DD_belatedPNG 还支持 `a:hover` 伪类属性，以及 `img` 标签。
 
 > DD_belatedPNG官网：[http://www.dillerdesign.com/experiment/DD_belatedPNG/](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
